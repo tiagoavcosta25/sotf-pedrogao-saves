@@ -1,0 +1,1 @@
+## This repo will contain backup auto saves for the Sons of The Forest "Filhos da Floresta de Pedrogao" server
